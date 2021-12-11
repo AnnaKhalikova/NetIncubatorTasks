@@ -11,7 +11,7 @@ namespace Solution2
 
             Console.Write("Size of array: ");
             int size2 = Convert.ToInt32(Console.ReadLine());
-
+// please, remove extra line. Use 1 blanc line to devide parts of code
 
             int[,] array2D = new int[size1, size2];
             float sum = 0;
